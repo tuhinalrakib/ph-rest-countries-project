@@ -1,0 +1,20 @@
+.country {
+    border : 2px solid green;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.country-visited{
+    background-color: lightgray;
+}
+
+.btn{
+    padding: 10px 20px;
+    border-radius: 14px;
+    border: none;
+    background-color: rgb(49, 43, 226);
+    cursor: pointer;
+    font-size: 1rem;
+}
